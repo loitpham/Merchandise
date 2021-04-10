@@ -46,6 +46,8 @@ struct ProductDetailView: View {
                 } //: SCROLL-VIEW
                 
                 // QUANTITY + FAVORITE
+                QuantityFavoriteDetailView()
+                    .padding(.vertical, 10)
                 
             } //: VSTACK
             .padding(.horizontal)

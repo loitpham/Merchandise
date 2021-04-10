@@ -39,6 +39,7 @@
 		1EBDFFF32621651C00082EAD /* TopPartDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EBDFFF22621651C00082EAD /* TopPartDetailView.swift */; };
 		1EBDFFF6262170A400082EAD /* CustomShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EBDFFF5262170A400082EAD /* CustomShape.swift */; };
 		1EBDFFF9262172BD00082EAD /* RatingsSizesDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EBDFFF8262172BD00082EAD /* RatingsSizesDetailView.swift */; };
+		1EBDFFFC2621779000082EAD /* QuantityFavoriteDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EBDFFFB2621779000082EAD /* QuantityFavoriteDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -76,6 +77,7 @@
 		1EBDFFF22621651C00082EAD /* TopPartDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopPartDetailView.swift; sourceTree = "<group>"; };
 		1EBDFFF5262170A400082EAD /* CustomShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShape.swift; sourceTree = "<group>"; };
 		1EBDFFF8262172BD00082EAD /* RatingsSizesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingsSizesDetailView.swift; sourceTree = "<group>"; };
+		1EBDFFFB2621779000082EAD /* QuantityFavoriteDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuantityFavoriteDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,6 +176,7 @@
 				1EBDFFEF2621628300082EAD /* HeaderDetailView.swift */,
 				1EBDFFF22621651C00082EAD /* TopPartDetailView.swift */,
 				1EBDFFF8262172BD00082EAD /* RatingsSizesDetailView.swift */,
+				1EBDFFFB2621779000082EAD /* QuantityFavoriteDetailView.swift */,
 			);
 			path = Detail;
 			sourceTree = "<group>";
@@ -294,6 +297,7 @@
 				1EBDFFF02621628300082EAD /* HeaderDetailView.swift in Sources */,
 				1EBDFFF32621651C00082EAD /* TopPartDetailView.swift in Sources */,
 				1E0225D82620034D0050B144 /* ContentView.swift in Sources */,
+				1EBDFFFC2621779000082EAD /* QuantityFavoriteDetailView.swift in Sources */,
 				1E0225FC2620105F0050B144 /* LogoView.swift in Sources */,
 				1E0225F6262009960050B144 /* FooterView.swift in Sources */,
 				1E022611262022B80050B144 /* FeaturedItemView.swift in Sources */,
