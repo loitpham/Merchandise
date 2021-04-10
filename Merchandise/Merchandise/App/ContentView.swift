@@ -39,6 +39,10 @@ struct ContentView: View {
                         } //: LAZY-VGRID
                         .padding(15)
                         
+                        TitleView(title: "Brands")
+                        
+                        BrandGridView()
+                        
                         FooterView()
                             .padding(.horizontal)
                         
