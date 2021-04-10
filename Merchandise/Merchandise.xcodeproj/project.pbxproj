@@ -40,6 +40,7 @@
 		1EBDFFF6262170A400082EAD /* CustomShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EBDFFF5262170A400082EAD /* CustomShape.swift */; };
 		1EBDFFF9262172BD00082EAD /* RatingsSizesDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EBDFFF8262172BD00082EAD /* RatingsSizesDetailView.swift */; };
 		1EBDFFFC2621779000082EAD /* QuantityFavoriteDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EBDFFFB2621779000082EAD /* QuantityFavoriteDetailView.swift */; };
+		1EBDFFFF26217C4800082EAD /* AddToCartDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EBDFFFE26217C4800082EAD /* AddToCartDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -78,6 +79,7 @@
 		1EBDFFF5262170A400082EAD /* CustomShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShape.swift; sourceTree = "<group>"; };
 		1EBDFFF8262172BD00082EAD /* RatingsSizesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingsSizesDetailView.swift; sourceTree = "<group>"; };
 		1EBDFFFB2621779000082EAD /* QuantityFavoriteDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuantityFavoriteDetailView.swift; sourceTree = "<group>"; };
+		1EBDFFFE26217C4800082EAD /* AddToCartDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToCartDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -177,6 +179,7 @@
 				1EBDFFF22621651C00082EAD /* TopPartDetailView.swift */,
 				1EBDFFF8262172BD00082EAD /* RatingsSizesDetailView.swift */,
 				1EBDFFFB2621779000082EAD /* QuantityFavoriteDetailView.swift */,
+				1EBDFFFE26217C4800082EAD /* AddToCartDetailView.swift */,
 			);
 			path = Detail;
 			sourceTree = "<group>";
@@ -301,6 +304,7 @@
 				1E0225FC2620105F0050B144 /* LogoView.swift in Sources */,
 				1E0225F6262009960050B144 /* FooterView.swift in Sources */,
 				1E022611262022B80050B144 /* FeaturedItemView.swift in Sources */,
+				1EBDFFFF26217C4800082EAD /* AddToCartDetailView.swift in Sources */,
 				1EBDFFDE2621456800082EAD /* ProductItemView.swift in Sources */,
 				1EBDFFE726214ADE00082EAD /* BrandGridView.swift in Sources */,
 				1EBDFFF9262172BD00082EAD /* RatingsSizesDetailView.swift in Sources */,
